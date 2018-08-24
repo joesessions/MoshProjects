@@ -1,0 +1,6 @@
+C:\Users\Joe\Documents\PracticeCoding\Super Scratch Single-vid practice\Stopwatch\Stopwatch\bin\Debug\Stopwatch.exe.config
+C:\Users\Joe\Documents\PracticeCoding\Super Scratch Single-vid practice\Stopwatch\Stopwatch\obj\Debug\Stopwatch.csprojResolveAssemblyReference.cache
+C:\Users\Joe\Documents\PracticeCoding\Super Scratch Single-vid practice\Stopwatch\Stopwatch\bin\Debug\Stopwatch.exe
+C:\Users\Joe\Documents\PracticeCoding\Super Scratch Single-vid practice\Stopwatch\Stopwatch\bin\Debug\Stopwatch.pdb
+C:\Users\Joe\Documents\PracticeCoding\Super Scratch Single-vid practice\Stopwatch\Stopwatch\obj\Debug\Stopwatch.exe
+C:\Users\Joe\Documents\PracticeCoding\Super Scratch Single-vid practice\Stopwatch\Stopwatch\obj\Debug\Stopwatch.pdb
